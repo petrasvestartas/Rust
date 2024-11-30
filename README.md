@@ -30,3 +30,8 @@ cargo new <projectname>
 ```bash
 cargo run
 ```
+
+### Run a project without Debug Info
+```bash
+cargo run -q
+```
