@@ -1,5 +1,8 @@
 # Rust
 
+![image](https://github.com/user-attachments/assets/16bf77c9-f221-4d50-ba1f-254793a4da98)
+
+
 ## Installation 
 
 ### Step 1 - Install Rust via Terminal
