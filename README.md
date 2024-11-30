@@ -1,6 +1,7 @@
 # Rust
 
-![image](https://github.com/user-attachments/assets/16bf77c9-f221-4d50-ba1f-254793a4da98)
+![rust_logo](https://github.com/user-attachments/assets/909d3d19-10cf-481a-8f97-f8a39d919085)
+
 
 
 ## Installation 
@@ -39,4 +40,4 @@ cargo run -q
 
 ### Step 3 - VSCode
 
-Extensions: rust analyzer.
+Extensions: [rust analyzer](https://code.visualstudio.com/docs/languages/rust)
