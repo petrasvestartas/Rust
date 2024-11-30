@@ -61,7 +61,7 @@ fn main() {
 
     // Loops
     let mut cakes = vec![];
-    for cake_type in &types {
+    for cake_type in &cake_types {
         for value in &values {
             let cake = format!("{} of {}", value, cake_type);
             cakes.push(cake);
