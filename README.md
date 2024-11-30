@@ -1,6 +1,7 @@
 # Rust
+![rust_logo](https://github.com/user-attachments/assets/1adf5ebe-e64e-454a-8b52-0207c3a9c759)
 
-![image](https://github.com/user-attachments/assets/16bf77c9-f221-4d50-ba1f-254793a4da98)
+
 
 
 ## Installation 
