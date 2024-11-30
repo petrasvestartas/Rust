@@ -35,3 +35,8 @@ cargo run
 ```bash
 cargo run -q
 ```
+
+
+### Step 3 - VSCode
+
+Extensions: rust analyzer.
