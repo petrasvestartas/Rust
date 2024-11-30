@@ -1,6 +1,6 @@
 # Rust
-![rust_logo](https://github.com/user-attachments/assets/1adf5ebe-e64e-454a-8b52-0207c3a9c759)
 
+![rust_logo](https://github.com/user-attachments/assets/909d3d19-10cf-481a-8f97-f8a39d919085)
 
 
 
